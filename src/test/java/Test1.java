@@ -9,7 +9,7 @@ import org.openqa.selenium.edge.EdgeOptions;
 import static java.lang.Thread.sleep;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class Test1 {
+public class Test1 { //Que estás buscando? Crédito
     public static void main(String[] args) throws InterruptedException {
         String rutaDriver = "D:\\SELENIUM\\Primera_evaluacion_selenium\\src\\test\\resources\\drivers\\chromedriver.exe";
 

@@ -13,7 +13,7 @@ import java.util.List;
 import static java.lang.Thread.sleep;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class Test2 {
+public class Test2 { //Banca Plus: Hazte cliente
     public static void main(String[] args) throws InterruptedException {
         // string ruta del driver
         String rutaDriver = "D:\\SELENIUM\\Primera_evaluacion_selenium\\src\\test\\resources\\drivers\\chromedriver.exe";
